@@ -1,4 +1,4 @@
-# kiboRPC-6th APk by Hyperion
+# kiboRPC-6th's apk by Hyperion
 - 現在のリポジトリの中身はTemplateAPK
 - DesignDoc.mdは暫定
 
