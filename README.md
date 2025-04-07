@@ -1,6 +1,6 @@
 # kiboRPC-6th Hyperion
 - 現在のリポジトリの中身はTemplateAPK
-- 現在、DesignDoc.mdは未完成
+- 現在、DesignDoc.mdは暫定
 
 ## team rules
 - 各自リポジトリをローカルにgit cloneして、開発時はブランチを切って、作業ブランチで行う
