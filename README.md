@@ -12,7 +12,7 @@
 
 ## Documents rules
 1. 作業ブランチで新機能作成、更新時に1pager_機能名.md(ex. 1pager_YOLO.md)ファイルを作成し、docs/ディレクトリに追加
-2. git pushして、プルリクエストを作成後、Discordにプルリクエストのリンクとともに通知
+2. git pushして、プルリクエストを作成後、Discordにプルリクエストのリンクとともに通知。
 
 - documentsは必ずしも書く必要はないが、できるだけ作成すること
 
